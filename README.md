@@ -1,7 +1,7 @@
 # sample-ml-clustering
 This is a sample Machine Learning project that exemplifies how to proceed Clustering Analysis by adopting Hierarchical Agglomerative and K-Means Clustering techniques, using Python, Pandas, NumPy, SciPy, Scikit-learn, Pingouin, Matplotlib, Seaborn and Plotly, along with Anaconda managed environments
 
-© 2024 Daniel Pinheiro Maia All Rights Reserved<br>
+© 2025 Daniel Pinheiro Maia All Rights Reserved<br>
 (see Copyright© License at the end of this text).
 
 [**Description of this repository**]<br>
