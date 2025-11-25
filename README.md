@@ -12,18 +12,17 @@ GitHub jupyter notebook | Colab dynamic code import and run:
 
 1 - Hierarchical Agglomerative Clustering<br>
 GitHub:<br>[https://github.com/danielpm1982/sample-ml-clustering/blob/master/sample-ml-clustering-hierarchical-agglomerative.ipynb](https://github.com/danielpm1982/sample-ml-clustering/blob/master/sample-ml-clustering-hierarchical-agglomerative.ipynb)<br>
-Colab:<br>[https://colab.research.google.com/github/danielpm1982/sample-ml-clustering/blob/master/sample-ml-clustering-hierarchical-agglomerative.ipynb](https://colab.research.google.com/github/danielpm1982/sample-ml-clustering/blob/master/sample-ml-clustering-hierarchical-agglomerative.ipynb)<br>
+Colab:<br>[https://colab.research.google.com/github/danielpm1982/sample-ml-clustering/blob/master/sample-ml-clustering-hierarchical-agglomerative(colab-version).ipynb](https://colab.research.google.com/github/danielpm1982/sample-ml-clustering/blob/master/sample-ml-clustering-hierarchical-agglomerative(colab-version).ipynb)<br>
 
 2 - K-Means Clustering<br>
 GitHub:<br>[https://github.com/danielpm1982/sample-ml-clustering/blob/master/sample-ml-clustering-k-means.ipynb](https://github.com/danielpm1982/sample-ml-clustering/blob/master/sample-ml-clustering-k-means.ipynb)<br>
-Colab:<br>[https://colab.research.google.com/github/danielpm1982/sample-ml-clustering/blob/master/sample-ml-clustering-k-means.ipynb](https://colab.research.google.com/github/danielpm1982/sample-ml-clustering/blob/master/sample-ml-clustering-k-means.ipynb)<br>
+Colab:<br>[https://colab.research.google.com/github/danielpm1982/sample-ml-clustering/blob/master/sample-ml-clustering-k-means(colab-version).ipynb](https://colab.research.google.com/github/danielpm1982/sample-ml-clustering/blob/master/sample-ml-clustering-k-means(colab-version).ipynb)<br>
 
 
 [**Source Code and Run**]<br>
 Source code available at github.com, through the following link:<br>
 [https://github.com/danielpm1982/sample-ml-clustering](https://github.com/danielpm1982/sample-ml-clustering) <br>
-The source code includes the Jupyter Notebooks .ipynb files themselves (one for each example), static resources - as images, .csv data files, as well as the environment.yml file, 
-which can be used to generate an Anaconda environment for running this project locally (don't forget to customize the env paths to your own filesystem and OS when creating the environment).<br>
+The source code includes the Jupyter Notebooks .ipynb files themselves (one for each example), static resources - as images, .csv data files, as well as the environment.yml file, which can be used to generate an Anaconda environment for running this project locally (don't forget to customize the env paths to your own filesystem and OS when creating the environment).<br>
 You can also run this Jupiter Notebook project remotely at [https://colab.research.google.com/notebook](https://colab.research.google.com/notebook), importing the content directly from this github repository to your Colab account, without having to create any Anaconda environment locally. In this case, choose to import the "colab-version" of the .ipynb file, instead of the other .ipynb file - the content is the same, but the resources' paths were updated to remote paths, instead of local ones.
 
 [**Support**]<br>
