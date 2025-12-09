@@ -25,6 +25,37 @@ Source code available at github.com, through the following link:<br>
 The source code includes the Jupyter Notebooks .ipynb files themselves (one for each example), static resources - as images, .csv data files, as well as the environment.yml file, which can be used to generate an Anaconda environment for running this project locally (don't forget to customize the env paths to your own filesystem and OS when creating the environment).<br>
 You can also run this Jupiter Notebook project remotely at [https://colab.research.google.com/notebook](https://colab.research.google.com/notebook), importing the content directly from this github repository to your Colab account, without having to create any Anaconda environment locally. In this case, choose to import the "colab-version" of the .ipynb file, instead of the other .ipynb file - the content is the same, but the resources' paths were updated to remote paths, instead of local ones.
 
+[**Printscreen samples**]<br>
+![https://github.com/danielpm1982/sample-ml-clustering/blob/master/print1.png?raw=true](https://github.com/danielpm1982/sample-ml-clustering/blob/master/print1.png?raw=true)
+
+![https://github.com/danielpm1982/sample-ml-clustering/blob/master/print2.png?raw=true](https://github.com/danielpm1982/sample-ml-clustering/blob/master/print2.png?raw=true)
+
+![https://github.com/danielpm1982/sample-ml-clustering/blob/master/print3.png?raw=true](https://github.com/danielpm1982/sample-ml-clustering/blob/master/print3.png?raw=true)
+
+![https://github.com/danielpm1982/sample-ml-clustering/blob/master/print4.png?raw=true](https://github.com/danielpm1982/sample-ml-clustering/blob/master/print4.png?raw=true)
+
+![https://github.com/danielpm1982/sample-ml-clustering/blob/master/print5.png?raw=true](https://github.com/danielpm1982/sample-ml-clustering/blob/master/print5.png?raw=true)
+
+![https://github.com/danielpm1982/sample-ml-clustering/blob/master/print6.png?raw=true](https://github.com/danielpm1982/sample-ml-clustering/blob/master/print6.png?raw=true)
+
+![https://github.com/danielpm1982/sample-ml-clustering/blob/master/print7.png?raw=true](https://github.com/danielpm1982/sample-ml-clustering/blob/master/print7.png?raw=true)
+
+![https://github.com/danielpm1982/sample-ml-clustering/blob/master/print8.png?raw=true](https://github.com/danielpm1982/sample-ml-clustering/blob/master/print8.png?raw=true)
+
+![https://github.com/danielpm1982/sample-ml-clustering/blob/master/print9.png?raw=true](https://github.com/danielpm1982/sample-ml-clustering/blob/master/print9.png?raw=true)
+
+![https://github.com/danielpm1982/sample-ml-clustering/blob/master/print10.png?raw=true](https://github.com/danielpm1982/sample-ml-clustering/blob/master/print10.png?raw=true)
+
+![https://github.com/danielpm1982/sample-ml-clustering/blob/master/print11.png?raw=true](https://github.com/danielpm1982/sample-ml-clustering/blob/master/print11.png?raw=true)
+
+![https://github.com/danielpm1982/sample-ml-clustering/blob/master/print12.png?raw=true](https://github.com/danielpm1982/sample-ml-clustering/blob/master/print12.png?raw=true)
+
+![https://github.com/danielpm1982/sample-ml-clustering/blob/master/print13.png?raw=true](https://github.com/danielpm1982/sample-ml-clustering/blob/master/print13.png?raw=true)
+
+![https://github.com/danielpm1982/sample-ml-clustering/blob/master/print14.png?raw=true](https://github.com/danielpm1982/sample-ml-clustering/blob/master/print14.png?raw=true)
+
+![https://github.com/danielpm1982/sample-ml-clustering/blob/master/print15.png?raw=true](https://github.com/danielpm1982/sample-ml-clustering/blob/master/print15.png?raw=true)
+
 [**Support**]<br>
 If you have any suggestion or correction about the content of this repository, please, feel free to open an issue at the project issues' section:<br>
 https://github.com/danielpm1982/sample-ml-clustering/issues
