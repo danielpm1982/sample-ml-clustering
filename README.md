@@ -10,51 +10,80 @@ This is a sample Machine Learning project that exemplifies how to proceed Cluste
 [**Content**]<br>
 GitHub jupyter notebook | Colab dynamic code import and run:
 
+**Students' Grades**
+
 1 - Hierarchical Agglomerative Clustering<br>
-GitHub:<br>[https://github.com/danielpm1982/sample-ml-clustering/blob/master/sample-ml-clustering-hierarchical-agglomerative.ipynb](https://github.com/danielpm1982/sample-ml-clustering/blob/master/sample-ml-clustering-hierarchical-agglomerative.ipynb)<br>
-Colab:<br>[https://colab.research.google.com/github/danielpm1982/sample-ml-clustering/blob/master/sample-ml-clustering-hierarchical-agglomerative(colab-version).ipynb](https://colab.research.google.com/github/danielpm1982/sample-ml-clustering/blob/master/sample-ml-clustering-hierarchical-agglomerative(colab-version).ipynb)<br>
+GitHub:<br>[https://github.com/danielpm1982/sample-ml-clustering/blob/master/sample-ml-clustering-hierarchical-agglomerative-student.ipynb](https://github.com/danielpm1982/sample-ml-clustering/blob/master/sample-ml-clustering-hierarchical-agglomerative-student.ipynb)<br>
+Colab:<br>[https://colab.research.google.com/github/danielpm1982/sample-ml-clustering/blob/master/sample-ml-clustering-hierarchical-agglomerative-student.ipynb](https://colab.research.google.com/github/danielpm1982/sample-ml-clustering/blob/master/sample-ml-clustering-hierarchical-agglomerative-student.ipynb)<br>
 
 2 - K-Means Clustering<br>
-GitHub:<br>[https://github.com/danielpm1982/sample-ml-clustering/blob/master/sample-ml-clustering-k-means.ipynb](https://github.com/danielpm1982/sample-ml-clustering/blob/master/sample-ml-clustering-k-means.ipynb)<br>
-Colab:<br>[https://colab.research.google.com/github/danielpm1982/sample-ml-clustering/blob/master/sample-ml-clustering-k-means.ipynb](https://colab.research.google.com/github/danielpm1982/sample-ml-clustering/blob/master/sample-ml-clustering-k-means.ipynb)<br>
+GitHub:<br>[https://github.com/danielpm1982/sample-ml-clustering/blob/master/sample-ml-clustering-k-means-student.ipynb](https://github.com/danielpm1982/sample-ml-clustering/blob/master/sample-ml-clustering-k-means-student.ipynb)<br>
+Colab:<br>[https://colab.research.google.com/github/danielpm1982/sample-ml-clustering/blob/master/sample-ml-clustering-k-means-student.ipynb](https://colab.research.google.com/github/danielpm1982/sample-ml-clustering/blob/master/sample-ml-clustering-k-means-student.ipynb)<br>
 
+**Stores' Branches Evaluation**
+
+1 - Hierarchical Agglomerative Clustering<br>
+GitHub:<br>[https://github.com/danielpm1982/sample-ml-clustering/blob/master/sample-ml-clustering-hierarchical-agglomerative-store.ipynb](https://github.com/danielpm1982/sample-ml-clustering/blob/master/sample-ml-clustering-hierarchical-agglomerative-store.ipynb)<br>
+Colab:<br>[https://colab.research.google.com/github/danielpm1982/sample-ml-clustering/blob/master/sample-ml-clustering-hierarchical-agglomerative-store.ipynb](https://colab.research.google.com/github/danielpm1982/sample-ml-clustering/blob/master/sample-ml-clustering-hierarchical-agglomerative-store.ipynb)<br>
+
+2 - K-Means Clustering<br>
+GitHub:<br>[https://github.com/danielpm1982/sample-ml-clustering/blob/master/sample-ml-clustering-k-means-store.ipynb](https://github.com/danielpm1982/sample-ml-clustering/blob/master/sample-ml-clustering-k-means-store.ipynb)<br>
+Colab:<br>[https://colab.research.google.com/github/danielpm1982/sample-ml-clustering/blob/master/sample-ml-clustering-k-means-store.ipynb](https://colab.research.google.com/github/danielpm1982/sample-ml-clustering/blob/master/sample-ml-clustering-k-means-store.ipynb)<br>
 
 [**Source Code and Run**]<br>
 Source code available at github.com, through the following link:<br>
 [https://github.com/danielpm1982/sample-ml-clustering](https://github.com/danielpm1982/sample-ml-clustering) <br>
 The source code includes the Jupyter Notebooks .ipynb files themselves (one for each example), static resources - as images, .csv data files, as well as the environment.yml file, which can be used to generate an Anaconda environment for running this project locally (don't forget to customize the env paths to your own filesystem and OS when creating the environment).<br>
-You can also run this Jupiter Notebook project remotely at [https://colab.research.google.com/notebook](https://colab.research.google.com/notebook), importing the content directly from this github repository to your Colab account, without having to create any Anaconda environment locally. In this case, choose to import the "colab-version" of the .ipynb file, instead of the other .ipynb file - the content is the same, but the resources' paths were updated to remote paths, instead of local ones.
+You can also run this Jupiter Notebook project remotely at [https://colab.research.google.com/notebook](https://colab.research.google.com/notebook), importing the content directly from this github repository to your Colab account, without having to create any Anaconda environment locally.
 
 [**Printscreen samples**]<br>
-![https://github.com/danielpm1982/sample-ml-clustering/blob/master/print1.png?raw=true](https://github.com/danielpm1982/sample-ml-clustering/blob/master/print1.png?raw=true)
+![https://github.com/danielpm1982/sample-ml-clustering/blob/master/prints/print1.png?raw=true](https://github.com/danielpm1982/sample-ml-clustering/blob/master/prints/print1.png?raw=true)
 
-![https://github.com/danielpm1982/sample-ml-clustering/blob/master/print2.png?raw=true](https://github.com/danielpm1982/sample-ml-clustering/blob/master/print2.png?raw=true)
+![https://github.com/danielpm1982/sample-ml-clustering/blob/master/prints/print2.png?raw=true](https://github.com/danielpm1982/sample-ml-clustering/blob/master/prints/print2.png?raw=true)
 
-![https://github.com/danielpm1982/sample-ml-clustering/blob/master/print3.png?raw=true](https://github.com/danielpm1982/sample-ml-clustering/blob/master/print3.png?raw=true)
+![https://github.com/danielpm1982/sample-ml-clustering/blob/master/prints/print3.png?raw=true](https://github.com/danielpm1982/sample-ml-clustering/blob/master/prints/print3.png?raw=true)
 
-![https://github.com/danielpm1982/sample-ml-clustering/blob/master/print4.png?raw=true](https://github.com/danielpm1982/sample-ml-clustering/blob/master/print4.png?raw=true)
+![https://github.com/danielpm1982/sample-ml-clustering/blob/master/prints/print4.png?raw=true](https://github.com/danielpm1982/sample-ml-clustering/blob/master/prints/print4.png?raw=true)
 
-![https://github.com/danielpm1982/sample-ml-clustering/blob/master/print5.png?raw=true](https://github.com/danielpm1982/sample-ml-clustering/blob/master/print5.png?raw=true)
+![https://github.com/danielpm1982/sample-ml-clustering/blob/master/prints/print5.png?raw=true](https://github.com/danielpm1982/sample-ml-clustering/blob/master/prints/print5.png?raw=true)
 
-![https://github.com/danielpm1982/sample-ml-clustering/blob/master/print6.png?raw=true](https://github.com/danielpm1982/sample-ml-clustering/blob/master/print6.png?raw=true)
+![https://github.com/danielpm1982/sample-ml-clustering/blob/master/prints/print6.png?raw=true](https://github.com/danielpm1982/sample-ml-clustering/blob/master/prints/print6.png?raw=true)
 
-![https://github.com/danielpm1982/sample-ml-clustering/blob/master/print7.png?raw=true](https://github.com/danielpm1982/sample-ml-clustering/blob/master/print7.png?raw=true)
+![https://github.com/danielpm1982/sample-ml-clustering/blob/master/prints/print7.png?raw=true](https://github.com/danielpm1982/sample-ml-clustering/blob/master/prints/print7.png?raw=true)
 
-![https://github.com/danielpm1982/sample-ml-clustering/blob/master/print8.png?raw=true](https://github.com/danielpm1982/sample-ml-clustering/blob/master/print8.png?raw=true)
+![https://github.com/danielpm1982/sample-ml-clustering/blob/master/prints/print8.png?raw=true](https://github.com/danielpm1982/sample-ml-clustering/blob/master/prints/print8.png?raw=true)
 
-![https://github.com/danielpm1982/sample-ml-clustering/blob/master/print9.png?raw=true](https://github.com/danielpm1982/sample-ml-clustering/blob/master/print9.png?raw=true)
+![https://github.com/danielpm1982/sample-ml-clustering/blob/master/prints/print9.png?raw=true](https://github.com/danielpm1982/sample-ml-clustering/blob/master/prints/print9.png?raw=true)
 
-![https://github.com/danielpm1982/sample-ml-clustering/blob/master/print10.png?raw=true](https://github.com/danielpm1982/sample-ml-clustering/blob/master/print10.png?raw=true)
+![https://github.com/danielpm1982/sample-ml-clustering/blob/master/prints/print10.png?raw=true](https://github.com/danielpm1982/sample-ml-clustering/blob/master/prints/print10.png?raw=true)
 
-![https://github.com/danielpm1982/sample-ml-clustering/blob/master/print11.png?raw=true](https://github.com/danielpm1982/sample-ml-clustering/blob/master/print11.png?raw=true)
+![https://github.com/danielpm1982/sample-ml-clustering/blob/master/prints/print11.png?raw=true](https://github.com/danielpm1982/sample-ml-clustering/blob/master/prints/print11.png?raw=true)
 
-![https://github.com/danielpm1982/sample-ml-clustering/blob/master/print12.png?raw=true](https://github.com/danielpm1982/sample-ml-clustering/blob/master/print12.png?raw=true)
+![https://github.com/danielpm1982/sample-ml-clustering/blob/master/prints/print12.png?raw=true](https://github.com/danielpm1982/sample-ml-clustering/blob/master/prints/print12.png?raw=true)
 
-![https://github.com/danielpm1982/sample-ml-clustering/blob/master/print13.png?raw=true](https://github.com/danielpm1982/sample-ml-clustering/blob/master/print13.png?raw=true)
+![https://github.com/danielpm1982/sample-ml-clustering/blob/master/prints/print13.png?raw=true](https://github.com/danielpm1982/sample-ml-clustering/blob/master/prints/print13.png?raw=true)
 
-![https://github.com/danielpm1982/sample-ml-clustering/blob/master/print14.png?raw=true](https://github.com/danielpm1982/sample-ml-clustering/blob/master/print14.png?raw=true)
+![https://github.com/danielpm1982/sample-ml-clustering/blob/master/prints/print14.png?raw=true](https://github.com/danielpm1982/sample-ml-clustering/blob/master/prints/print14.png?raw=true)
 
-![https://github.com/danielpm1982/sample-ml-clustering/blob/master/print15.png?raw=true](https://github.com/danielpm1982/sample-ml-clustering/blob/master/print15.png?raw=true)
+![https://github.com/danielpm1982/sample-ml-clustering/blob/master/prints/print15.png?raw=true](https://github.com/danielpm1982/sample-ml-clustering/blob/master/prints/print15.png?raw=true)
+
+![https://github.com/danielpm1982/sample-ml-clustering/blob/master/prints/print16.png?raw=true](https://github.com/danielpm1982/sample-ml-clustering/blob/master/prints/print16.png?raw=true)
+
+![https://github.com/danielpm1982/sample-ml-clustering/blob/master/prints/print17.png?raw=true](https://github.com/danielpm1982/sample-ml-clustering/blob/master/prints/print17.png?raw=true)
+
+![https://github.com/danielpm1982/sample-ml-clustering/blob/master/prints/print18.png?raw=true](https://github.com/danielpm1982/sample-ml-clustering/blob/master/prints/print18.png?raw=true)
+
+![https://github.com/danielpm1982/sample-ml-clustering/blob/master/prints/print19.png?raw=true](https://github.com/danielpm1982/sample-ml-clustering/blob/master/prints/print19.png?raw=true)
+
+![https://github.com/danielpm1982/sample-ml-clustering/blob/master/prints/print20.png?raw=true](https://github.com/danielpm1982/sample-ml-clustering/blob/master/prints/print20.png?raw=true)
+
+![https://github.com/danielpm1982/sample-ml-clustering/blob/master/prints/print21.png?raw=true](https://github.com/danielpm1982/sample-ml-clustering/blob/master/prints/print21.png?raw=true)
+
+![https://github.com/danielpm1982/sample-ml-clustering/blob/master/prints/print22.png?raw=true](https://github.com/danielpm1982/sample-ml-clustering/blob/master/prints/print22.png?raw=true)
+
+![https://github.com/danielpm1982/sample-ml-clustering/blob/master/prints/print23.png?raw=true](https://github.com/danielpm1982/sample-ml-clustering/blob/master/prints/print23.png?raw=true)
+
+![https://github.com/danielpm1982/sample-ml-clustering/blob/master/prints/print24.png?raw=true](https://github.com/danielpm1982/sample-ml-clustering/blob/master/prints/print24.png?raw=true)
 
 [**Support**]<br>
 If you have any suggestion or correction about the content of this repository, please, feel free to open an issue at the project issues' section:<br>
